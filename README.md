@@ -1,4 +1,5 @@
-# WordCamp Cape Town 2015 WordPress Plugins
+# WordCamp Cape Town 2015 
+## WordPress Plugins
 
 Checkout this repo into your wp-content/plugins/ folder.
 
