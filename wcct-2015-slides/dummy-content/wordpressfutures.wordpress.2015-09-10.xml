@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3" created="2015-09-08 22:24" -->
+<!-- generator="WordPress/4.3" created="2015-09-10 20:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WordPress Futures</title>
 	<link>http://wcct.dev</link>
 	<description>Core, Community, and Future Innovation</description>
-	<pubDate>Tue, 08 Sep 2015 22:24:18 +0000</pubDate>
+	<pubDate>Thu, 10 Sep 2015 20:03:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wcct.dev</wp:base_site_url>
@@ -47,95 +47,6 @@
 
 	<generator>http://wordpress.org/?v=4.3</generator>
 
-	<item>
-		<title>Sample Page</title>
-		<link>http://wcct.dev/sample-page/</link>
-		<pubDate>Tue, 08 Sep 2015 09:05:14 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
-...or something like this:
-
-<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
-As a new WordPress user, you should go to <a href="http://wcct.dev/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2015-09-08 09:05:14</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 09:05:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>sample-page</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Home</title>
-		<link>http://wcct.dev/2015/09/08/home/</link>
-		<pubDate>Tue, 08 Sep 2015 09:29:32 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/2015/09/08/home/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date>2015-09-08 09:29:32</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 09:29:32</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>home</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://wcct.dev]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
 	<item>
 		<title>star-wars</title>
 		<link>http://wcct.dev/2015/09/08/featured-image/star-wars/</link>
@@ -165,137 +76,6 @@ As a new WordPress user, you should go to <a href="http://wcct.dev/wp-admin/">yo
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1270;s:6:"height";i:1338;s:4:"file";s:21:"2015/09/star-wars.png";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"star-wars-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:21:"star-wars-285x300.png";s:5:"width";i:285;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:22:"star-wars-972x1024.png";s:5:"width";i:972;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:19:"intergalactic-large";a:4:{s:4:"file";s:21:"star-wars-911x960.png";s:5:"width";i:911;s:6:"height";i:960;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Opening Slide</title>
-		<link>http://wcct.dev/2015/09/08/opening-slide/</link>
-		<pubDate>Tue, 08 Sep 2015 19:51:19 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[No one talked about WordPress Core!!!]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date>2015-09-08 19:51:19</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 19:51:19</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>opening-slide</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="intro"><![CDATA[Intro]]></category>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>WordPress Futures</title>
-		<link>http://wcct.dev/2015/09/08/wordpress-futures/</link>
-		<pubDate>Tue, 08 Sep 2015 19:53:20 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=17</guid>
-		<description></description>
-		<content:encoded><![CDATA[Core, Community, and future Innovation]]></content:encoded>
-		<excerpt:encoded><![CDATA[Let's get this party started! A new tradition]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date>2015-09-08 19:53:20</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 19:53:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>wordpress-futures</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<category domain="category" nicename="title"><![CDATA[Title]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>author</wp:meta_key>
-			<wp:meta_value><![CDATA[<p><small><a href="http://twitter.com/jeffikus">@jeffikus</a></small></p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>footer</wp:meta_key>
-			<wp:meta_value><![CDATA[<p><small><a href="http://woothemes.com/">WooThemes</a> <br/> <a href="http://automattic.com/jeffikus">Automattic</a></small></p>]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Let&#039;s Rock</title>
-		<link>http://wcct.dev/2015/09/08/lets-rock/</link>
-		<pubDate>Tue, 08 Sep 2015 20:19:56 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=21</guid>
-		<description></description>
-		<content:encoded><![CDATA[<ul>
-	<li>Core</li>
-	<li>Community</li>
-	<li>Innovation</li>
-</ul>
-&nbsp;
-
-And something cool at the end....]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date>2015-09-08 20:19:56</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 20:19:56</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>lets-rock</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>What just happened?</title>
-		<link>http://wcct.dev/2015/09/08/what-just-happened/</link>
-		<pubDate>Tue, 08 Sep 2015 20:23:26 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=24</guid>
-		<description></description>
-		<content:encoded><![CDATA[WordCamp Cape Town 2014
-
-WordPress 4.0  -  Benny]]></content:encoded>
-		<excerpt:encoded><![CDATA[4.0 release on 4 September 2014]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date>2015-09-08 20:23:26</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 20:23:26</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>what-just-happened</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -702,17 +482,423 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>twenty-fifteen</title>
+		<link>http://wcct.dev/2015/09/08/4-1-dinah/twenty-fifteen/</link>
+		<pubDate>Thu, 10 Sep 2015 19:06:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/wp-content/uploads/2015/09/twenty-fifteen.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date>2015-09-10 19:06:58</wp:post_date>
+		<wp:post_date_gmt>2015-09-10 19:06:58</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>twenty-fifteen</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>27</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wcct.dev/wp-content/uploads/2015/09/twenty-fifteen.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/09/twenty-fifteen.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:533;s:4:"file";s:26:"2015/09/twenty-fifteen.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"twenty-fifteen-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:26:"twenty-fifteen-300x156.png";s:5:"width";i:300;s:6:"height";i:156;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:27:"twenty-fifteen-1024x533.png";s:5:"width";i:1024;s:6:"height";i:533;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>distraction-free</title>
+		<link>http://wcct.dev/2015/09/08/4-1-dinah/distraction-free/</link>
+		<pubDate>Thu, 10 Sep 2015 19:07:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/wp-content/uploads/2015/09/distraction-free.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>137</wp:post_id>
+		<wp:post_date>2015-09-10 19:07:37</wp:post_date>
+		<wp:post_date_gmt>2015-09-10 19:07:37</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>distraction-free</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>27</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wcct.dev/wp-content/uploads/2015/09/distraction-free.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/09/distraction-free.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1024;s:6:"height";i:614;s:4:"file";s:28:"2015/09/distraction-free.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"distraction-free-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:28:"distraction-free-300x180.png";s:5:"width";i:300;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:29:"distraction-free-1024x614.png";s:5:"width";i:1024;s:6:"height";i:614;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>customizer-theme-switch</title>
+		<link>http://wcct.dev/2015/09/08/4-2-powell/customizer-theme-switch/</link>
+		<pubDate>Thu, 10 Sep 2015 19:14:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/wp-content/uploads/2015/09/customizer-theme-switch.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date>2015-09-10 19:14:28</wp:post_date>
+		<wp:post_date_gmt>2015-09-10 19:14:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>customizer-theme-switch</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>29</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wcct.dev/wp-content/uploads/2015/09/customizer-theme-switch.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/09/customizer-theme-switch.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:230;s:4:"file";s:35:"2015/09/customizer-theme-switch.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"customizer-theme-switch-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:35:"customizer-theme-switch-300x230.png";s:5:"width";i:300;s:6:"height";i:230;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>plugin-updates</title>
+		<link>http://wcct.dev/2015/09/08/4-2-powell/plugin-updates/</link>
+		<pubDate>Thu, 10 Sep 2015 19:14:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/wp-content/uploads/2015/09/plugin-updates.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>145</wp:post_id>
+		<wp:post_date>2015-09-10 19:14:43</wp:post_date>
+		<wp:post_date_gmt>2015-09-10 19:14:43</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>plugin-updates</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>29</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wcct.dev/wp-content/uploads/2015/09/plugin-updates.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/09/plugin-updates.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:230;s:4:"file";s:26:"2015/09/plugin-updates.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"plugin-updates-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:26:"plugin-updates-300x230.png";s:5:"width";i:300;s:6:"height";i:230;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>menu-customizer</title>
+		<link>http://wcct.dev/2015/09/08/4-3-billie/menu-customizer/</link>
+		<pubDate>Thu, 10 Sep 2015 19:17:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/wp-content/uploads/2015/09/menu-customizer.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>148</wp:post_id>
+		<wp:post_date>2015-09-10 19:17:28</wp:post_date>
+		<wp:post_date_gmt>2015-09-10 19:17:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>menu-customizer</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>31</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wcct.dev/wp-content/uploads/2015/09/menu-customizer.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/09/menu-customizer.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1010;s:6:"height";i:568;s:4:"file";s:27:"2015/09/menu-customizer.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"menu-customizer-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:27:"menu-customizer-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>site-icon-customizer</title>
+		<link>http://wcct.dev/2015/09/08/4-3-billie/site-icon-customizer/</link>
+		<pubDate>Thu, 10 Sep 2015 19:17:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/wp-content/uploads/2015/09/site-icon-customizer.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>149</wp:post_id>
+		<wp:post_date>2015-09-10 19:17:39</wp:post_date>
+		<wp:post_date_gmt>2015-09-10 19:17:39</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>site-icon-customizer</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>31</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://wcct.dev/wp-content/uploads/2015/09/site-icon-customizer.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/09/site-icon-customizer.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1010;s:6:"height";i:568;s:4:"file";s:32:"2015/09/site-icon-customizer.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"site-icon-customizer-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:32:"site-icon-customizer-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Sample Page</title>
+		<link>http://wcct.dev/sample-page/</link>
+		<pubDate>Tue, 08 Sep 2015 09:05:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href="http://wcct.dev/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date>2015-09-08 09:05:14</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 09:05:14</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>sample-page</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home</title>
+		<link>http://wcct.dev/2015/09/08/home/</link>
+		<pubDate>Tue, 08 Sep 2015 09:29:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/2015/09/08/home/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date>2015-09-08 09:29:32</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 09:29:32</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>home</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[http://wcct.dev]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Opening Slide</title>
+		<link>http://wcct.dev/2015/09/08/opening-slide/</link>
+		<pubDate>Tue, 08 Sep 2015 19:51:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=15</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[No one talked about WordPress Core!!!]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date>2015-09-08 19:51:19</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 19:51:19</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>opening-slide</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="intro"><![CDATA[Intro]]></category>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>WordPress Futures</title>
+		<link>http://wcct.dev/2015/09/08/wordpress-futures/</link>
+		<pubDate>Tue, 08 Sep 2015 19:53:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=17</guid>
+		<description></description>
+		<content:encoded><![CDATA[Core, Community, and future Innovation]]></content:encoded>
+		<excerpt:encoded><![CDATA[Let's get this party started! A new tradition]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date>2015-09-08 19:53:20</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 19:53:20</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>wordpress-futures</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<category domain="category" nicename="title"><![CDATA[Title]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>author</wp:meta_key>
+			<wp:meta_value><![CDATA[<p><small><a href="http://twitter.com/jeffikus">@jeffikus</a></small></p>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>footer</wp:meta_key>
+			<wp:meta_value><![CDATA[<p><small><a href="http://woothemes.com/">WooThemes</a> <br/> <a href="http://automattic.com/jeffikus">Automattic</a></small></p>]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Let&#039;s Rock</title>
+		<link>http://wcct.dev/2015/09/08/lets-rock/</link>
+		<pubDate>Tue, 08 Sep 2015 20:19:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=21</guid>
+		<description></description>
+		<content:encoded><![CDATA[<ul>
+	<li>Core</li>
+	<li>Community</li>
+	<li>Innovation</li>
+</ul>
+&nbsp;
+
+And something cool at the end....]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date>2015-09-08 20:19:56</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 20:19:56</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>lets-rock</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>What just happened?</title>
+		<link>http://wcct.dev/2015/09/08/what-just-happened/</link>
+		<pubDate>Tue, 08 Sep 2015 20:23:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=24</guid>
+		<description></description>
+		<content:encoded><![CDATA[WordCamp Cape Town 2014
+
+WordPress 4.0  -  Benny
+<ul>
+	<li>Media Library Improvements</li>
+	<li>Embed Improvements</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[4.0 release on 4 September 2014]]></excerpt:encoded>
+		<wp:post_id>24</wp:post_id>
+		<wp:post_date>2015-09-08 20:23:26</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 20:23:26</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>what-just-happened</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>4.1  -  Dinah</title>
 		<link>http://wcct.dev/2015/09/08/4-1-dinah/</link>
 		<pubDate>Tue, 08 Sep 2015 20:25:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=27</guid>
 		<description></description>
-		<content:encoded><![CDATA[<ul>
-	<li>Feature</li>
-	<li>Feature</li>
-	<li>Feature</li>
-</ul>]]></content:encoded>
+		<content:encoded><![CDATA[<section>Twenty Fifteen</section><section><img class="alignnone size-large wp-image-136" src="http://wcct.dev/wp-content/uploads/2015/09/twenty-fifteen-1024x533.png" alt="twenty-fifteen" width="1000" height="521" /></section><section>Distraction Free Writing</section><section><img class="alignnone size-large wp-image-137" src="http://wcct.dev/wp-content/uploads/2015/09/distraction-free-1024x614.png" alt="distraction-free" width="1000" height="600" /></section><section>Complex Queries</section><section>Customizer API improvements</section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[18 December 2014]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date>2015-09-08 20:25:16</wp:post_date>
@@ -739,11 +925,7 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=29</guid>
 		<description></description>
-		<content:encoded><![CDATA[<ul>
-	<li>Feature</li>
-	<li>Feature</li>
-	<li>Feature</li>
-</ul>]]></content:encoded>
+		<content:encoded><![CDATA[<section>Drew Jaynes</section><section>Custom Query Ordering</section><section>Customizer Theme Switcher</section><section><img class="alignnone size-full wp-image-144" src="http://wcct.dev/wp-content/uploads/2015/09/customizer-theme-switch.png" alt="customizer-theme-switch" width="300" height="230" /></section><section>Improved Plugin Updater</section><section><img class="alignnone size-full wp-image-145" src="http://wcct.dev/wp-content/uploads/2015/09/plugin-updates.png" alt="plugin-updates" width="300" height="230" /></section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[23 April 2015]]></excerpt:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date>2015-09-08 20:25:37</wp:post_date>
@@ -770,11 +952,7 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=31</guid>
 		<description></description>
-		<content:encoded><![CDATA[<ul>
-	<li>Feature</li>
-	<li>Feature</li>
-	<li>Feature</li>
-</ul>]]></content:encoded>
+		<content:encoded><![CDATA[<section>Menus in Customizer</section><section><img class="alignnone size-full wp-image-148" src="http://wcct.dev/wp-content/uploads/2015/09/menu-customizer.png" alt="menu-customizer" width="1010" height="568" /></section><section>Site Icons</section><section><img class="alignnone size-full wp-image-149" src="http://wcct.dev/wp-content/uploads/2015/09/site-icon-customizer.png" alt="site-icon-customizer" width="1010" height="568" /></section><section>Better Passwords</section><section><img class="alignnone size-full wp-image-150" src="http://wcct.dev/wp-content/uploads/2015/09/better-passwords.png" alt="better-passwords" width="1010" height="568" /></section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[18 August 2015]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date>2015-09-08 20:26:07</wp:post_date>
@@ -795,17 +973,15 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>4.4  -  [insert name here]</title>
+		<title>4.4</title>
 		<link>http://wcct.dev/2015/09/08/4-4-insert-name-here/</link>
 		<pubDate>Tue, 08 Sep 2015 20:27:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=35</guid>
 		<description></description>
-		<content:encoded><![CDATA[<ul>
-	<li>Feature</li>
-	<li>Feature</li>
-	<li>Feature</li>
-</ul>]]></content:encoded>
+		<content:encoded><![CDATA[Scott Taylor
+
+<a href="https://make.wordpress.org/core/2015/08/19/wordpress-4-4-whats-on-your-wishlist/">https://make.wordpress.org/core/2015/08/19/wordpress-4-4-whats-on-your-wishlist/</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[December 2015]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date>2015-09-08 20:27:05</wp:post_date>
@@ -828,6 +1004,10 @@ WordPress 4.0  -  Benny]]></content:encoded>
 			<wp:meta_key>footer</wp:meta_key>
 			<wp:meta_value><![CDATA[<p><small><a href="https://codex.wordpress.org/Version_4.4">https://codex.wordpress.org/Version_4.4</a></small></p>]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_d44481b1cac058e84d0f08a0ca65313b</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>4.MOAR!!</title>
@@ -836,7 +1016,7 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=44</guid>
 		<description></description>
-		<content:encoded><![CDATA[<section>2 factor authentication</section><section>REST API</section><section>Shortcode ShortCake UI</section><section>Twenty Sixteen</section><section>Fields API</section><section>Posts 2 Posts</section><section>Features as Plugins</section>]]></content:encoded>
+		<content:encoded><![CDATA[<section><a href="http://wcct.dev/wp-content/uploads/2015/09/moar.jpg"><img class="alignnone size-full wp-image-169" src="http://wcct.dev/wp-content/uploads/2015/09/moar.jpg" alt="moar" width="400" height="369" /></a></section><section>2 factor authentication</section><section>REST API</section><section>Shortcode ShortCake UI</section><section>Twenty Sixteen</section><section>Fields API</section><section>Posts 2 Posts</section><section><a href="https://make.wordpress.org/core/features-as-plugins/">Features as Plugins</a></section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date>2015-09-08 20:41:42</wp:post_date>
@@ -928,7 +1108,7 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=67</guid>
 		<description></description>
-		<content:encoded><![CDATA[<section>ThemeConf</section><section>LoopConf</section><section>Higher Ed WordCampus</section><section>WordCamp US</section>]]></content:encoded>
+		<content:encoded><![CDATA[<section><a href="http://themeconf.com/">ThemeConf</a></section><section><a href="https://loopconf.io/">LoopConf</a></section><section><a href="http://wptavern.com/wordcampus-a-conference-devoted-to-using-wordpress-in-higher-education">Higher Ed WordCampus</a></section><section><a href="http://ma.tt/2015/07/wcus-philadelphia/">WordCamp USA</a></section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date>2015-09-08 21:11:34</wp:post_date>
@@ -1019,8 +1199,8 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=75</guid>
 		<description></description>
-		<content:encoded><![CDATA[<section>Menus in customizer</section><section>Shortcode Proposal</section><section>Aaaaaaaand STAHP!
-<a href="http://wcct.dev/wp-content/uploads/2015/09/pls-stahp.png"><img class="alignnone size-medium wp-image-120" src="http://wcct.dev/wp-content/uploads/2015/09/pls-stahp-300x227.png" alt="pls-stahp" width="300" height="227" /></a></section>]]></content:encoded>
+		<content:encoded><![CDATA[<section><a href="http://wptavern.com/menu-customizer-officially-approved-for-merge-into-wordpress-4-3">Menus in customizer</a></section><section><a href="https://make.wordpress.org/core/2015/09/02/shortcode-roadmap-draft-one/">Shortcode Proposal</a></section><section>Aaaaaaaand STAHP!
+<img class="alignnone size-medium wp-image-120" src="http://wcct.dev/wp-content/uploads/2015/09/pls-stahp-300x227.png" alt="pls-stahp" width="300" height="227" /></section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date>2015-09-08 21:19:46</wp:post_date>
@@ -1047,7 +1227,7 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=77</guid>
 		<description></description>
-		<content:encoded><![CDATA[<section>Do Action</section><section>ThemeButler</section><section>getBeans.io</section><section>Layers</section><section>DevKit</section><section>10Up</section><section>Currl</section><section>SiteOrigin Pagebuilder 2.0</section><section>Design Lunatics (Grow/RLabs)</section><section>Hero Plugins</section><section>Sola Plugins</section><section>WooMattic</section>]]></content:encoded>
+		<content:encoded><![CDATA[<section><a href="http://www.wpcapetown.co.za/event/do_action-wordpress-charity-hackathon-2015/">Do Action June 2015</a></section><section><a href="http://www.themebutler.com/">ThemeButler</a></section><section><a href="http://getBeans.io">getBeans.io</a></section><section><a href="http://www.layerswp.com/">Layers</a></section><section><a href="http://www.layerswp.com/devkit/">DevKit</a></section><section><a href="https://capetown.wordcamp.org/2015/speaker/brent-van-resnburg/">10Up - Brent van Rensburg</a></section><section><a href="https://currl.com/a-closer-look-at-currls-hosting-backups-and-security/">Currl</a></section><section><a href="https://siteorigin.com/page-builder/">SiteOrigin Pagebuilder 2.0</a></section><section><a href="http://designlunatics.co.za">Design Lunatics (Grow/RLabs)</a></section><section><a href="http://heroplugins.com/">Hero Plugins</a></section><section><a href="http://solaplugins.com">Sola Plugins</a></section><section><a href="http://ma.tt/2015/05/woomattic/">WooMattic</a></section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date>2015-09-08 21:22:22</wp:post_date>
@@ -1068,248 +1248,65 @@ WordPress 4.0  -  Benny]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Take Note</title>
-		<link>http://wcct.dev/2015/09/08/take-note/</link>
-		<pubDate>Tue, 08 Sep 2015 21:23:46 +0000</pubDate>
+		<title>better-passwords</title>
+		<link>http://wcct.dev/2015/09/08/4-3-billie/better-passwords/</link>
+		<pubDate>Thu, 10 Sep 2015 19:17:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=79</guid>
-		<description></description>
-		<content:encoded><![CDATA[<ul>
-	<li>Themes on .org require customizer</li>
-	<li>Themes on .org allow WP-API use!</li>
-	<li>Post Status</li>
-	<li>5% culture keeps on growing</li>
-</ul>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>79</wp:post_id>
-		<wp:post_date>2015-09-08 21:23:46</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 21:23:46</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>take-note</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Innovation</title>
-		<link>http://wcct.dev/2015/09/08/innovation/</link>
-		<pubDate>Tue, 08 Sep 2015 21:29:06 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=82</guid>
+		<guid isPermaLink="false">http://wcct.dev/wp-content/uploads/2015/09/better-passwords.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>82</wp:post_id>
-		<wp:post_date>2015-09-08 21:29:06</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 21:29:06</wp:post_date_gmt>
+		<wp:post_id>150</wp:post_id>
+		<wp:post_date>2015-09-10 19:17:52</wp:post_date>
+		<wp:post_date_gmt>2015-09-10 19:17:52</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>innovation</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>better-passwords</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>31</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
+		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="intro"><![CDATA[Intro]]></category>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:attachment_url>http://wcct.dev/wp-content/uploads/2015/09/better-passwords.png</wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/09/better-passwords.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[83]]></wp:meta_value>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1010;s:6:"height";i:568;s:4:"file";s:28:"2015/09/better-passwords.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"better-passwords-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:28:"better-passwords-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>The Rise of JavaScript</title>
-		<link>http://wcct.dev/2015/09/08/the-rise-of-javascript/</link>
-		<pubDate>Tue, 08 Sep 2015 21:30:09 +0000</pubDate>
+		<title>moar</title>
+		<link>http://wcct.dev/2015/09/08/4-4-moar/moar/</link>
+		<pubDate>Thu, 10 Sep 2015 19:48:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=85</guid>
-		<description></description>
-		<content:encoded><![CDATA[<ul>
-	<li>React, Angular, jQuery</li>
-</ul>
-<a href="http://wcct.dev/wp-content/uploads/2015/09/rise-of-js.png"><img class="alignnone size-medium wp-image-94" src="http://wcct.dev/wp-content/uploads/2015/09/rise-of-js-300x271.png" alt="rise-of-js" width="300" height="271" /></a>
-
-&nbsp;
-
-Wait....happened to Backbone??]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>85</wp:post_id>
-		<wp:post_date>2015-09-08 21:30:09</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 21:30:09</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>the-rise-of-javascript</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>There has been an Awakening</title>
-		<link>http://wcct.dev/2015/09/08/there-has-been-an-awakening/</link>
-		<pubDate>Tue, 08 Sep 2015 21:30:36 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=87</guid>
+		<guid isPermaLink="false">http://wcct.dev/wp-content/uploads/2015/09/moar.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>87</wp:post_id>
-		<wp:post_date>2015-09-08 21:30:36</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 21:30:36</wp:post_date_gmt>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date>2015-09-10 19:48:00</wp:post_date>
+		<wp:post_date_gmt>2015-09-10 19:48:00</wp:post_date_gmt>
 		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>there-has-been-an-awakening</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>moar</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>44</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
+		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="intro"><![CDATA[Intro]]></category>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:attachment_url>http://wcct.dev/wp-content/uploads/2015/09/moar.jpg</wp:attachment_url>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/09/moar.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[88]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Conscious Uncoupling</title>
-		<link>http://wcct.dev/2015/09/08/conscious-uncoupling/</link>
-		<pubDate>Tue, 08 Sep 2015 21:32:11 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=90</guid>
-		<description></description>
-		<content:encoded><![CDATA[WordPress is becoming a full platform by creating a true API.
-
-Separation of data, logic, and presentation.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>90</wp:post_id>
-		<wp:post_date>2015-09-08 21:32:11</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 21:32:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>conscious-uncoupling</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Stuff to Learn from</title>
-		<link>http://wcct.dev/2015/09/08/stuff-to-learn-from/</link>
-		<pubDate>Tue, 08 Sep 2015 21:34:29 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=92</guid>
-		<description></description>
-		<content:encoded><![CDATA[<section>Jack Lenox WordPress Theme</section><section>WooCommerce API</section><section>WordPress.com API/JetPack</section><section>EDD API</section><section>Gravity Forms API</section><section>WP-App Project</section><section>WP Hybrid Client</section><section>Stream</section><section>Story Corps</section>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>92</wp:post_id>
-		<wp:post_date>2015-09-08 21:34:29</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 21:34:29</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>stuff-to-learn-from</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>It&#039;s time...</title>
-		<link>http://wcct.dev/2015/09/08/something-cool/</link>
-		<pubDate>Tue, 08 Sep 2015 21:36:19 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=96</guid>
-		<description></description>
-		<content:encoded><![CDATA[<a href="http://wcct.dev/wp-content/uploads/2015/09/cool.jpg"><img class="alignnone size-full wp-image-97" src="http://wcct.dev/wp-content/uploads/2015/09/cool.jpg" alt="cool" width="640" height="360" /></a>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>96</wp:post_id>
-		<wp:post_date>2015-09-08 21:36:19</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 21:36:19</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>something-cool</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>This Presentation</title>
-		<link>http://wcct.dev/2015/09/08/this-presentation/</link>
-		<pubDate>Tue, 08 Sep 2015 21:38:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://wcct.dev/?p=99</guid>
-		<description></description>
-		<content:encoded><![CDATA[<ul>
-	<li>RevealJS</li>
-	<li>Static HTML, JS, CSS site</li>
-	<li>WordPress + WP-API v2</li>
-	<li>Custom endpoints for some additional info</li>
-</ul>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>99</wp:post_id>
-		<wp:post_date>2015-09-08 21:38:37</wp:post_date>
-		<wp:post_date_gmt>2015-09-08 21:38:37</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>this-presentation</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:369;s:4:"file";s:16:"2015/09/moar.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:16:"moar-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:16:"moar-300x277.jpg";s:5:"width";i:300;s:6:"height";i:277;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1565,6 +1562,248 @@ Separation of data, logic, and presentation.]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Take Note</title>
+		<link>http://wcct.dev/2015/09/08/take-note/</link>
+		<pubDate>Tue, 08 Sep 2015 21:23:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=79</guid>
+		<description></description>
+		<content:encoded><![CDATA[<ul>
+	<li><a href="http://wptavern.com/wordpress-org-now-requires-theme-authors-to-use-the-customizer-to-build-theme-options">Themes on .org require customizer</a></li>
+	<li><a href="http://torquemag.io/themes-now-allowed-to-use-the-wp-rest-api-plugin-but-is-this-a-good-thing/">Themes on .org + WP-API - get with the program now!</a></li>
+	<li><a href="https://poststatus.com/club/">Post Status community membership</a></li>
+	<li><a href="https://poststatus.com/contribution-culture/">5% culture keeps on growing</a></li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date>2015-09-08 21:23:46</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 21:23:46</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>take-note</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Innovation</title>
+		<link>http://wcct.dev/2015/09/08/innovation/</link>
+		<pubDate>Tue, 08 Sep 2015 21:29:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=82</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>82</wp:post_id>
+		<wp:post_date>2015-09-08 21:29:06</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 21:29:06</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>innovation</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="intro"><![CDATA[Intro]]></category>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[83]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>The Rise of JavaScript</title>
+		<link>http://wcct.dev/2015/09/08/the-rise-of-javascript/</link>
+		<pubDate>Tue, 08 Sep 2015 21:30:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=85</guid>
+		<description></description>
+		<content:encoded><![CDATA[<ul>
+	<li><a href="https://poststatus.com/using-react-with-wordpress-draft-podcast/">React</a>, <a href="http://www.roysivan.com/lets-build-wordpress-app-together-one/#.VfHhA52eDGc">Angular</a>, jQuery</li>
+	<li>Wait....happened to Backbone??</li>
+</ul>
+<img class="alignnone wp-image-94 size-full" src="http://wcct.dev/wp-content/uploads/2015/09/rise-of-js.png" alt="rise-of-js" width="600" height="542" />]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>85</wp:post_id>
+		<wp:post_date>2015-09-08 21:30:09</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 21:30:09</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>the-rise-of-javascript</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>There has been an Awakening</title>
+		<link>http://wcct.dev/2015/09/08/there-has-been-an-awakening/</link>
+		<pubDate>Tue, 08 Sep 2015 21:30:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=87</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date>2015-09-08 21:30:36</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 21:30:36</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>there-has-been-an-awakening</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="intro"><![CDATA[Intro]]></category>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[88]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Conscious Uncoupling</title>
+		<link>http://wcct.dev/2015/09/08/conscious-uncoupling/</link>
+		<pubDate>Tue, 08 Sep 2015 21:32:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=90</guid>
+		<description></description>
+		<content:encoded><![CDATA[WordPress is becoming a full platform by creating a true API.
+
+Separation of data, logic, and presentation.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>90</wp:post_id>
+		<wp:post_date>2015-09-08 21:32:11</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 21:32:11</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>conscious-uncoupling</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Stuff to Learn from</title>
+		<link>http://wcct.dev/2015/09/08/stuff-to-learn-from/</link>
+		<pubDate>Tue, 08 Sep 2015 21:34:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=92</guid>
+		<description></description>
+		<content:encoded><![CDATA[<section><a href="http://wptavern.com/jack-lenox-on-building-themes-with-the-wp-rest-api">Jack Lenox WordPress Theme</a></section><section><a href="http://woothemes.github.io/woocommerce-rest-api-docs/">WooCommerce API</a></section><section><a href="https://developer.wordpress.com/docs/api/">WordPress.com API/JetPack</a></section><section><a href="http://docs.easydigitaldownloads.com/article/544-edd-api-reference">EDD API</a></section><section><a href="https://www.gravityhelp.com/documentation/article/gravity-forms-api/">Gravity Forms API</a></section><section><a href="https://github.com/wp-app/wp-app">WP-App Project</a></section><section><a href="http://wphc.julienrenaux.fr/">WP Hybrid Client</a></section><section><a href="https://wp-stream.com/introducing-stream-3/">Stream</a></section><section><a href="https://poststatus.com/how-storycorps-uses-wordpress-to-enable-storytelling-everywhere/">Story Corps</a></section>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>92</wp:post_id>
+		<wp:post_date>2015-09-08 21:34:29</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 21:34:29</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>stuff-to-learn-from</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>It&#039;s time...</title>
+		<link>http://wcct.dev/2015/09/08/something-cool/</link>
+		<pubDate>Tue, 08 Sep 2015 21:36:19 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=96</guid>
+		<description></description>
+		<content:encoded><![CDATA[<a href="http://wcct.dev/wp-content/uploads/2015/09/cool.jpg"><img class="alignnone size-full wp-image-97" src="http://wcct.dev/wp-content/uploads/2015/09/cool.jpg" alt="cool" width="640" height="360" /></a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>96</wp:post_id>
+		<wp:post_date>2015-09-08 21:36:19</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 21:36:19</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>something-cool</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>This Presentation</title>
+		<link>http://wcct.dev/2015/09/08/this-presentation/</link>
+		<pubDate>Tue, 08 Sep 2015 21:38:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://wcct.dev/?p=99</guid>
+		<description></description>
+		<content:encoded><![CDATA[<ul>
+	<li><a href="https://github.com/hakimel/reveal.js/">RevealJS</a></li>
+	<li>Static HTML, JS, CSS site</li>
+	<li><a href="http://wordpress.org">WordPress</a> + <a href="http://v2.wp-api.org/">WP-API v2</a></li>
+	<li>Custom endpoints for some additional info</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>99</wp:post_id>
+		<wp:post_date>2015-09-08 21:38:37</wp:post_date>
+		<wp:post_date_gmt>2015-09-08 21:38:37</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>this-presentation</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="slides"><![CDATA[Slides]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>jQuery -&gt; WP-API</title>
 		<link>http://wcct.dev/2015/09/08/jquery-wp-api/</link>
 		<pubDate>Tue, 08 Sep 2015 21:41:50 +0000</pubDate>
@@ -1627,7 +1866,7 @@ Separation of data, logic, and presentation.]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[Link to the repo on my github
 
-<a href="http://wcct.dev/wp-content/uploads/2015/09/octobiwan.jpg"><img class="alignnone size-medium wp-image-128" src="http://wcct.dev/wp-content/uploads/2015/09/octobiwan-300x300.jpg" alt="octobiwan" width="300" height="300" /></a> <a href="http://wcct.dev/wp-content/uploads/2015/09/stormtroopocat.png"><img class="alignnone size-medium wp-image-129" src="http://wcct.dev/wp-content/uploads/2015/09/stormtroopocat-300x300.png" alt="stormtroopocat" width="300" height="300" /></a>]]></content:encoded>
+<a href="https://github.com/jeffikus/wcct-2015-slides"><img class="alignnone size-medium wp-image-128" src="http://wcct.dev/wp-content/uploads/2015/09/octobiwan-300x300.jpg" alt="octobiwan" width="300" height="300" /></a> <a href="https://github.com/jeffikus/wcct-2015-plugins"><img class="alignnone size-medium wp-image-129" src="http://wcct.dev/wp-content/uploads/2015/09/stormtroopocat-300x300.png" alt="stormtroopocat" width="300" height="300" /></a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date>2015-09-08 21:55:43</wp:post_date>
@@ -1654,7 +1893,7 @@ Separation of data, logic, and presentation.]]></content:encoded>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wcct.dev/?p=116</guid>
 		<description></description>
-		<content:encoded><![CDATA[<section>WordCamp USA</section><section>Decoupling + API's in products</section><section>Learn a Javascript Framework</section><section>SaaS</section><section>MakeGamesSA</section><section>Apps</section>]]></content:encoded>
+		<content:encoded><![CDATA[<section><a href="http://ma.tt/2015/07/wcus-philadelphia/">WordCamp USA</a></section><section>Decoupling + API's in products</section><section><a href="http://javascript.com">Learn a Javascript Framework</a></section><section>SaaS</section><section><a href="http://makegamessa.com">MakeGamesSA</a></section><section><a href="http://ionicframework.com">Apps</a></section>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date>2015-09-08 21:57:13</wp:post_date>
